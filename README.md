@@ -1,6 +1,6 @@
 ## Charan Pendyala
 
-I am a Full Stack Software Engineer with over 8 years of experience building production backend services, primarily within the financial services sector. My focus is on modular REST architectures, advanced SQL data structuring, and scalable cloud deployments.
+I am a Full Stack Software Engineer with experience building production backend services, primarily within the financial services sector. My focus is on modular REST architectures, advanced SQL data structuring, and scalable cloud deployments.
 
 Because my day-to-day enterprise work is proprietary and lives behind corporate firewalls, my GitHub activity is minimal. This profile primarily hosts the source code for my web portfolio, which serves as a digital extension of my resume. 
 
